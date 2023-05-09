@@ -1,4 +1,4 @@
-const soma = (a,b)) => {
+const soma = (a,b) => {
     return a + b;
 };
 
